@@ -130,7 +130,7 @@ SortSmart AI has the potential to operate through a B2B SaaS model.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sortsmart-ai.git
+git clone https://github.com/mayankmalik08/sortsmart-ai.git
 ```
 
 Navigate to the project directory:
